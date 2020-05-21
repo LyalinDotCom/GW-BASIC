@@ -10,9 +10,11 @@ This repo:
 1. Will not be modified - please do not submit PR's or request changes
 1. Contains no build scripts, makefiles, or tools required to generate executable binaries, nor does it contain any pre-built binaries / executables
 
+To learn more on why we have opened sources this project, check out our blog post: [Microsoft Open-Sources GW-BASIC](https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/)
+
 ## License
 
-All files within this repo are released under the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/Microsoft/GW-BASIC/blob/master/LICENSE) stored in the root of this repo.
+All files within this repo are released under the [MIT (OSI) License](https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/Microsoft/GW-BASIC/blob/master/LICENSE) stored in the root of this repo.
 
 ## Contributing
 
